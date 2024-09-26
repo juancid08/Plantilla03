@@ -5,7 +5,7 @@
 <h2>Estructura del Proyecto</h2>
 
 <ul>
-  <li><strong>Cabecera (Header):</strong> Contiene el título, subtítulo, y un logotipo alineado a la derecha. Usa Flexbox para mantener la estructura.</li>
+  <li><strong>Cabecera (Header):</strong> Contiene el título, subtítulo, y una foto mia. Usa Flexbox para mantener la estructura.</li>
   <li><strong>Menú de Navegación:</strong> Enlaces a recursos externos como <a href="https://www.w3schools.com/js/default.asp">w3schools</a>, <a href="https://es.javascript.info/js">javascript.info</a> y <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">MDN</a>.</li>
   <li><strong>Contenido Principal:</strong> Tarjetas que muestran los ejercicios de JavaScript con títulos, descripciones y enlaces a soluciones.</li>
   <li><strong>Pie de Página:</strong> Muestra el nombre del autor.</li>
